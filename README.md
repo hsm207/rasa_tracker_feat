@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains code to accompany the [How Rasa Featurizes User Input For Dialogue Prediction]() blog post on Medium
+This repo contains code to accompany the [How Rasa Featurizes User Input For Dialogue Prediction](https://pub.towardsai.net/an-in-depth-look-at-how-rasa-featurizes-user-input-for-dialogue-prediction-f153da550382) blog post on Medium
 
 # Usage
 
